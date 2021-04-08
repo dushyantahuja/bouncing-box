@@ -1,1 +1,1 @@
-# bouncing-box
+# Box Class
